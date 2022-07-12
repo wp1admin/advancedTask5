@@ -1,0 +1,277 @@
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\appsettings.Development.json
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\appsettings.json
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\PetsApi.exe
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\PetsApi.deps.json
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\PetsApi.runtimeconfig.json
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\PetsApi.runtimeconfig.dev.json
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\PetsApi.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\ref\PetsApi.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\PetsApi.pdb
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\practices\advanced\PetsApi\obj\Debug\net5.0\PetsApi.csproj.AssemblyReference.cache
+C:\practices\advanced\PetsApi\obj\Debug\net5.0\PetsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\practices\advanced\PetsApi\obj\Debug\net5.0\PetsApi.AssemblyInfoInputs.cache
+C:\practices\advanced\PetsApi\obj\Debug\net5.0\PetsApi.AssemblyInfo.cs
+C:\practices\advanced\PetsApi\obj\Debug\net5.0\PetsApi.csproj.CoreCompileInputs.cache
+C:\practices\advanced\PetsApi\obj\Debug\net5.0\PetsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\practices\advanced\PetsApi\obj\Debug\net5.0\PetsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\practices\advanced\PetsApi\obj\Debug\net5.0\scopedcss\bundle\PetsApi.styles.css
+C:\practices\advanced\PetsApi\obj\Debug\net5.0\staticwebassets\PetsApi.StaticWebAssets.Manifest.cache
+C:\practices\advanced\PetsApi\obj\Debug\net5.0\PetsApi.RazorTargetAssemblyInfo.cache
+C:\practices\advanced\PetsApi\obj\Debug\net5.0\PetsApi.csproj.CopyComplete
+C:\practices\advanced\PetsApi\obj\Debug\net5.0\PetsApi.dll
+C:\practices\advanced\PetsApi\obj\Debug\net5.0\ref\PetsApi.dll
+C:\practices\advanced\PetsApi\obj\Debug\net5.0\PetsApi.pdb
+C:\practices\advanced\PetsApi\obj\Debug\net5.0\PetsApi.genruntimeconfig.cache
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Humanizer.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Prometheus.NetCore.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Prometheus.NetStandard.dll
+C:\practices\advanced\PetsApi\bin\Debug\net5.0\Prometheus.AspNetCore.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\obj\Debug\net5.0\PetsApi.csproj.AssemblyReference.cache
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\obj\Debug\net5.0\PetsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\obj\Debug\net5.0\PetsApi.AssemblyInfoInputs.cache
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\obj\Debug\net5.0\PetsApi.AssemblyInfo.cs
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\obj\Debug\net5.0\PetsApi.csproj.CoreCompileInputs.cache
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\obj\Debug\net5.0\PetsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\obj\Debug\net5.0\PetsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\obj\Debug\net5.0\PetsApi.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\obj\Debug\net5.0\ref\PetsApi.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\obj\Debug\net5.0\PetsApi.pdb
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\appsettings.Development.json
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\appsettings.json
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\PetsApi.exe
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\PetsApi.deps.json
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\PetsApi.runtimeconfig.json
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\PetsApi.runtimeconfig.dev.json
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\PetsApi.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\ref\PetsApi.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\PetsApi.pdb
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Humanizer.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Prometheus.NetCore.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Prometheus.NetStandard.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Prometheus.AspNetCore.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\obj\Debug\net5.0\scopedcss\bundle\PetsApi.styles.css
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\obj\Debug\net5.0\staticwebassets\PetsApi.StaticWebAssets.Manifest.cache
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\obj\Debug\net5.0\PetsApi.RazorTargetAssemblyInfo.cache
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\obj\Debug\net5.0\PetsApi.csproj.CopyComplete
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\obj\Debug\net5.0\PetsApi.genruntimeconfig.cache
+C:\YangChangjun\Microservice Training\Advanced\assessment\Task 1\PetsApi\bin\Debug\net5.0\RabbitMQ.Client.dll
